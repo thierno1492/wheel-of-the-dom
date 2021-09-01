@@ -1,1 +1,29 @@
 # wheel-of-the-dom
+## Introdución
+#### Wheel-of-doom trabajo de grupo en la formación factoria f5 A dónde puedes jugar con la ruleta random que van a matar a cada persona a cada vez que se para puedes añadir miembros y quitar es una juego muy divertido para hacer una selección de equipos o entre amigos aqui esta nuestra github page click  [Aqui](https://armun4.github.io/Wheel-Of-Doom/ "Aqui")
+<img src="img-readme/weel-of-the-dom-img1.gif"> 
+
+### al presionar el boton GO se elimiara a una persona de la lista en modo aleatorio al azar acompañada de una sonido de la muerte. se puede agregar miembros y eliminarlos, Utilizar la imagen que prefieras. la pagina se adapta a todos los dispositivos
+
+### Haramientas 
+### Html Css Javascipt Fizzbuzz Trello poker pinks 
+hemos usado @Trello para ordenar nuestro trabajo y tambien para asignar tareas tenemos una html simple y un @javascript dinamico 
+### Equipo
+### somos @LOREM:D
+### MIENBROS 
+
+### Armando_Mago
+
+## git chekout master
+
+### Abdulha_Idrees
+
+### Anya_Kholodenko
+
+
+### Leah_Calafell
+
+### Thierno_Sadialiou_Diallo
+
+
+#### Para testear el codigo utilizar el comando "npm ci" deguido de "npm test"
